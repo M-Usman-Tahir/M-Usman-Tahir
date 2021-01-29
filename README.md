@@ -23,7 +23,7 @@
    "languages": ["Python", "Java", "C++"],
    "backend": ["NodeJS", "Flask"],
    "frontend": ["HTML/CSS"],
-   "databases": ["CSV"],
+   "databases": ["CSV", "MYSQL"],
    "other skills":["Unity 3D Game Developement"]
 }
 ```
