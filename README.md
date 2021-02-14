@@ -20,7 +20,7 @@
 
 ```json
 {
-   "languages": ["Python", "Java", "C++"],
+   "languages": ["Python", "Java", "C++", "JS"],
    "backend": ["NodeJS", "Flask", "SpringBoot"],
    "frontend": ["HTML/CSS"],
    "databases": ["CSV", "MYSQL"],
