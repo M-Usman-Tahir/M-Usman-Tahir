@@ -2,8 +2,7 @@
 
 - ⚡ I'm Computer Engineering Student at UET, Lahore, Pakistan
 - 🧩 I m ML Scientist, Data Analyst, Game Developer, Web Developer and a pythoneer    
-- 🌱 I’m currently learning Competitive Coding, Node.js, DL Science  
-<!--🔭 I’m currently working on DS Project-->
+- 🌱 I’m currently learning Competitive Coding, Node.js, DL Science<!--🔭 I’m currently working on DS Project-->
 - 🔭 I’m currently giviing classes on Python Programming (PPF-ASME-UET)
 - 👯 I’m looking to collaborate with ML Scientists, Data Analysts and Web Developers & Game Developers
 - 🥅 2021 Goals: Contribute more to Open Source project & Learning NLP
