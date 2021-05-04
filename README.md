@@ -1,9 +1,12 @@
 ### Hi there. I am Usman 👋
 
-- ⚡ I'm Computer Engineering Student with some python and c++ knowledge
-- 🌱 I’m currently learning Java, Web Developement, Node.js
-- 🔭 I’m currently working on Java Project named as Web Chatting App
-- 👯 I’m looking to collaborate on Web Developers
+- ⚡ I'm Computer Engineering Student at UET, Lahore, Pakistan
+- 🧩 I m ML Scientist, Data Analyst, Game Developer, Web Developer and a pythoneer    
+- 🌱 I’m currently learning Competitive Coding, Node.js, DL Science  
+<!--🔭 I’m currently working on DS Project-->
+- 🔭 I’m currently giviing classes on Python Programming (PPF-ASME-UET)
+- 👯 I’m looking to collaborate with ML Scientists, Data Analysts and Web Developers & Game Developers
+- 🥅 2021 Goals: Contribute more to Open Source project & Learning NLP
 
 ### Connect with me:
 
@@ -23,7 +26,8 @@
    "languages": ["Python", "Java", "C++", "JS"],
    "backend": ["NodeJS", "Flask", "SpringBoot"],
    "frontend": ["HTML/CSS"],
-   "databases": ["CSV", "MYSQL"],
+   "databases": ["CSV", "MYSQL", "JSON"],
+   "ai framework":["Scikit-learn"],
    "other skills":["Unity 3D Game Developement"]
 }
 ```
