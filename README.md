@@ -30,4 +30,10 @@
    "other skills":["Unity 3D Game Developement"]
 }
 ```
+
 <img align="left" alt="M-Usman-Tahir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=M-Usman-Tahir&show_icons=true&hide_border=true" />
+
+<p align="center">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=M-Usman-Tahir&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=M-Usman-Tahir&count_private=true&hide_border=true&bg_color=0d1117&theme=github" />
+</p>
