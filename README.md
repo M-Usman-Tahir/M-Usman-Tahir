@@ -26,7 +26,7 @@
    "backend": ["NodeJS", "Flask", "SpringBoot"],
    "frontend": ["HTML/CSS"],
    "databases": ["CSV", "MYSQL", "JSON"],
-   "ai framework":["Scikit-learn"...],
+   "ai framework":["Scikit-learn",,,],
    "other skills":["Unity 3D Game Developement"]
 }
 ```
