@@ -1,11 +1,11 @@
 ### Hi there. I am Usman 👋
 
-- ⚡ I'm Computer Engineering Student at UET, Lahore, Pakistan
+- ⚡ I'm Computer Engineering Student at UET, Lahore, Pakistan and AI Lead ACM UET Lahore
 - 🧩 I m ML Scientist, Data Analyst, Game Developer, Web Developer and a pythoneer    
 - 🌱 I’m currently learning Competitive Coding, Node.js, DL Science<!--🔭 I’m currently working on DS Project-->
-- 🔭 I’m currently giviing classes on Python Programming (PPF-ASME-UET)
 - 👯 I’m looking to collaborate with ML Scientists, Data Analysts and Web Developers & Game Developers
 - 🥅 2021 Goals: Contribute more to Open Source project & Learning NLP
+<!-- - 🔭 I’m currently giviing classes on Python Programming (PPF-ASME-UET) -->
 
 ### Connect with me:
 
@@ -26,13 +26,13 @@
    "backend": ["NodeJS", "Flask", "SpringBoot"],
    "frontend": ["HTML/CSS"],
    "databases": ["CSV", "MYSQL", "JSON"],
-   "ai framework":["Scikit-learn"],
+   "ai framework":["Scikit-learn"...],
    "other skills":["Unity 3D Game Developement"]
 }
 ```
-
-<img align="left" alt="M-Usman-Tahir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=M-Usman-Tahir&show_icons=true&hide_border=true" />
-
+<p align="center">
+   <img align="center" alt="M-Usman-Tahir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=M-Usman-Tahir&show_icons=true&hide_border=true" />
+</p>
 <p align="center">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=M-Usman-Tahir&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
     <img src="https://activity-graph.herokuapp.com/graph?username=M-Usman-Tahir&count_private=true&hide_border=true&bg_color=0d1117&theme=github" />
