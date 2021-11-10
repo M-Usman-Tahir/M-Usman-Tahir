@@ -22,10 +22,10 @@
 
 ```json
 {
-   "languages": ["Python", "Java", "C++", "JS"],
+   "languages": ["Python", "Java", "C++", "C#", "JS", "Perl"],
    "backend": ["NodeJS", "Flask", "Django", "SpringBoot"],
    "frontend": ["HTML/CSS", "REACT"],
-   "databases": ["CSV", "MYSQL", "JSON"],
+   "databases": ["CSV", "MYSQL", "JSON", "Firebase"],
    "ai framework": ["Scikit-learn", "TensorFlow", "Keras",,,],
    "game developement": ["Unity Engine"]
 }
