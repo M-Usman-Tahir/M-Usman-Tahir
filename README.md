@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning Competitive Coding, Node.js, DL Science<!--🔭 I’m currently working on DS Project-->
 - 👯 I’m looking to collaborate with ML Scientists, Data Analysts and Web Developers & Game Developers
 - 🥅 2021 Goals: Contribute more to Open Source project & Learning NLP
-<!-- - 🔭 I’m currently giviing classes on Python Programming (PPF-ASME-UET) -->
 
 <div align="center">
 
@@ -20,7 +19,7 @@
 
 </div>
 <!-- <br /> -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=M-Usman-Tahir" alt="M-Usman-Tahir" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=M-Usman-Tahir" alt="M-Usman-Tahir"/> </p>
 
 ## Technologies Stack
 
@@ -35,9 +34,9 @@
 }
 ```
 <p align="center">
-   <img class="darkMode" align="center" alt="M-Usman-Tahir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=M-Usman-Tahir&show_icons=true&hide_border=true&locale=en&theme=tokyonight" />
+   <img class="darkMode" align="center" alt="M-Usman-Tahir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=M-Usman-Tahir&show_icons=true&hide_border=true&locale=en&theme=tokyonight"/>
 </p>
 <p align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=M-Usman-Tahir&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=M-Usman-Tahir&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true"/>
     <img src="https://activity-graph.herokuapp.com/graph?username=M-Usman-Tahir&count_private=true&hide_border=true&bg_color=0d1117&theme=github" />
 </p>
