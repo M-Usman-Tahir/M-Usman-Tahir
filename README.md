@@ -56,6 +56,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/>
+  <img align="left" alt="Jupyter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" width="60" height="60"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/>
@@ -77,7 +78,7 @@
 ## Github Stats
 
 <p align="left">
-   <img class="darkMode" alt="M-Usman-Tahir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=M-Usman-Tahir&show_icons=true&hide_border=true&locale=en&theme=tokyonight" width=50%/><img align="right" class="darkMode" alt="M Usman Tahir Top Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Usman-Tahir&langs_count=12&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width=35%/>
+   <img class="darkMode" alt="M-Usman-Tahir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=M-Usman-Tahir&show_icons=true&hide_border=true&locale=en&theme=tokyonight" width=50%/><img class="darkMode" alt="M Usman Tahir Top Languages" style="padding-left: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Usman-Tahir&langs_count=12&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width=35%/>
 </p>
 <br>
 <p align="center">
