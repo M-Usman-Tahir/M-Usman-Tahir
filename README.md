@@ -1,8 +1,12 @@
-### Hi there. I am Usman 👋
+<div align="center">
+
+# Hi there. I am Usman 👋
+
+</div>
 
 - ⚡ I'm Computer Engineering Student at UET, Lahore, Pakistan and AI Lead ACM UET Lahore
-- 🧩 I m ML Scientist, Data Analyst, Game Developer, Web Developer and a pythoneer    
-- 🌱 I’m currently learning new technologies<!--Competitive Coding, Node.js, DL Science🔭 I’m currently working on DS Project-->
+- 🧩 I m ML Scientist, Data Analyst, Game Developer, Web Developer and a pythoneer
+- 🌱 I’m currently learning new technologies
 - 👯 I’m looking to collaborate with ML Scientists, Data Analysts & Game Developers
 - 🥅 2022 Goals: Contribute more to Open Source project
 
