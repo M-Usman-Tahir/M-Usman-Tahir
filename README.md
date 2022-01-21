@@ -77,6 +77,7 @@
  <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt="c++" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60" height="60"/>
+<img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="60" height="60"/> 
 </p>
 
 ## Github Stats
