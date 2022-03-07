@@ -22,7 +22,7 @@
 <!-- [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff "m.usmantahir")](https://www.instagram.com/m.usmantahir/) -->
 
 </div>
-<!-- <br /> -->
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=M-Usman-Tahir" alt="M-Usman-Tahir"/> </p>
 
 ## Technologies Stack
@@ -46,12 +46,12 @@
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="60" height="60"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png" alt=npm width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/> 
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png" alt=npm width="60" height="60"/> 
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/heroku.png" alt=vs width="60" height="60"/>
@@ -73,22 +73,23 @@
 
 <h2>Programming Languages </h2>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
-<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
- <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt="c++" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60" height="60"/>
-<img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="60" height="60"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt="c++" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60" height="60"/>
+  <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="60" height="60"/> 
 </p>
 
 ## Github Stats
 
 <p align="left">
-   <img class="darkMode" alt="M-Usman-Tahir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=M-Usman-Tahir&show_icons=true&hide_border=true&locale=en&theme=tokyonight" width=50%/><img class="darkMode" alt="M Usman Tahir Top Languages" style="padding-left: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Usman-Tahir&langs_count=12&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width=35%/>
+  <img class="darkMode" alt="M-Usman-Tahir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=M-Usman-Tahir&show_icons=true&hide_border=true&locale=en&theme=tokyonight" width=50%/>
+  <img class="darkMode" alt="M Usman Tahir Top Languages" style="padding-left: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Usman-Tahir&langs_count=12&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width=35%/>
 </p>
 <br>
 <p align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=M-Usman-Tahir&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true"/>
-    <img src="https://activity-graph.herokuapp.com/graph?username=M-Usman-Tahir&count_private=true&hide_border=true&bg_color=0d1117&theme=github" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=M-Usman-Tahir&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=M-Usman-Tahir&count_private=true&hide_border=true&bg_color=0d1117&theme=github" />
 </p>
