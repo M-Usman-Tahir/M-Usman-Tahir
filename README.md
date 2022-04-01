@@ -16,14 +16,19 @@
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff "m.usman.tahir.336@gmail.com")](mailto:m.usman.tahir.336@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff "muhammad-usman-tahir-666886202")](https://www.linkedin.com/in/muhammad-usman-tahir-666886202/)
+![https://stackoverflow.com/users/17729087/musmantahir](https://img.shields.io/badge/-StackOverflow-orange?style=flat&logo=StackOverflow&logoColor=white)
+![https://www.hackerrank.com/m_usman_tahir_31](https://img.shields.io/badge/-HackerRank-brightgreen?style=flat&logo=HackerRank&logoColor=white)
+
 ![GitHub followers](https://img.shields.io/github/followers/M-Usman-Tahir?label=follow&style=social "Follow on Github")
+![](https://komarev.com/ghpvc/?username=M-Usman-Tahir "M-Usman-Tahir")
+
 
 <!-- [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40MUsmanTahir "_MUsmanTahir_")](https://twitter.com/_MUsmanTahir_) -->
 <!-- [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff "m.usmantahir")](https://www.instagram.com/m.usmantahir/) -->
 
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=M-Usman-Tahir" alt="M-Usman-Tahir"/> </p>
+
 
 ## Technologies Stack
 
