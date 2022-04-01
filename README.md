@@ -14,10 +14,10 @@
 
 ### Connect with me:
 
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff "m.usman.tahir.336@gmail.com")](mailto:m.usman.tahir.336@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff "muhammad-usman-tahir-666886202")](https://www.linkedin.com/in/muhammad-usman-tahir-666886202/)
-![https://stackoverflow.com/users/17729087/musmantahir](https://img.shields.io/badge/-StackOverflow-orange?style=flat&logo=StackOverflow&logoColor=white)
-![https://www.hackerrank.com/m_usman_tahir_31](https://img.shields.io/badge/-HackerRank-brightgreen?style=flat&logo=HackerRank&logoColor=white)
+[![Gmail](https://img.shields.io/badge/-Send%20Mail-black?color=14171A&logo=gmail "m.usman.tahir.336@gmail.com")](mailto:m.usman.tahir.336@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![LinkedIn Connect](https://img.shields.io/badge/-Connect-black?color=14171A&logo=linkedin "m-u-t-dev")](https://www.linkedin.com/in/m-u-t-dev/)
+[![](https://img.shields.io/badge/-StackOverflow-black?color=14171A&style=flat&logo=StackOverflow)](https://stackoverflow.com/users/17729087/musmantahir)
+[![](https://img.shields.io/badge/-HackerRank-black?color=14171A&style=flat&logo=HackerRank)](https://www.hackerrank.com/m_usman_tahir_31)
 
 ![GitHub followers](https://img.shields.io/github/followers/M-Usman-Tahir?label=follow&style=social "Follow on Github")
 ![](https://komarev.com/ghpvc/?username=M-Usman-Tahir "M-Usman-Tahir")
