@@ -16,8 +16,9 @@
 
 [![Gmail](https://img.shields.io/badge/-Send%20Mail-black?color=14171A&logo=gmail "m.usman.tahir.336@gmail.com")](mailto:m.usman.tahir.336@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![LinkedIn Connect](https://img.shields.io/badge/-Connect-black?color=14171A&logo=linkedin "m-u-t-dev")](https://www.linkedin.com/in/m-u-t-dev/)
-[![](https://img.shields.io/badge/-StackOverflow-black?color=14171A&style=flat&logo=StackOverflow)](https://stackoverflow.com/users/17729087/musmantahir)
-[![](https://img.shields.io/badge/-HackerRank-black?color=14171A&style=flat&logo=HackerRank)](https://www.hackerrank.com/m_usman_tahir_31)
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-black?color=14171A&style=flat&logo=StackOverflow)](https://stackoverflow.com/users/17729087/musmantahir)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-black?color=14171A&style=flat&logo=HackerRank)](https://www.hackerrank.com/m_usman_tahir_31)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-black?color=14171A&style=flat&logo=kaggle)](https://www.kaggle.com/musmantahir)
 
 ![GitHub followers](https://img.shields.io/github/followers/M-Usman-Tahir?label=follow&style=social "Follow on Github")
 ![](https://komarev.com/ghpvc/?username=M-Usman-Tahir "M-Usman-Tahir")
