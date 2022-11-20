@@ -5,10 +5,10 @@
 </div>
 
 - ⚡ I'm Final Year Student of Computer Engineering at UET, Lahore, Pakistan and Executive Head of Research and Innovation at UET Science Society
-- 🧩 I m ML Scientist, Data Analyst, Game Developer, Backend Developer and a pythoneer
+- 🧩 I'm ML Scientist, Data Analyst, Game Developer, Backend Developer and a pythoneer
 - 🌱 I’m currently learning new technologies
 - 👯 I’m looking to collaborate with ML Scientists, Data Analysts & Game Developers
-- 🥅 2022 Goals: Contribute more to Open Source project
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 <div align="center">
 
