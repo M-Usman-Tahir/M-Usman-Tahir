@@ -4,11 +4,11 @@
 
 </div>
 
-- ⚡ I'm Computer Engineering Graduate from UET, Lahore, Pakistan, **Founder of Bit-By-Bit**
+- ⚡ I'm Computer Engineering Graduate from UET, Lahore, Pakistan.
 - 🧩 I'm ML Scientist, Data Analyst, Game Developer, Backend Developer and a pythoneer
 - 🌱 I’m currently learning new technologies
 - 👯 I’m looking to collaborate with ML Scientists, Data Analysts & Game Developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 
 <div align="center">
 
